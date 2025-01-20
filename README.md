@@ -56,12 +56,14 @@
 
 ---
 
+### 📊 Github Stats  
 <p align="left">
-  <a href="https://github.com/mochammadirsyadkurniawan">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mochammadirsyadkurniawan&show_icons=true&theme=radical&hide=issues&count_private=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mochammadirsyadkurniawan&layout=compact&langs_count=8&theme=radical" alt="Top Languages />
+  <a href="https://github.com/AtillaKuncoroDjati">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AtillaKuncoroDjati&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AtillaKuncoroDjati&layout=compact&langs_count=8&theme=tokyonight" />
   </a>
 </p>
+
 
 
 <!---
