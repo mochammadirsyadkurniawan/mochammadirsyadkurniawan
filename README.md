@@ -28,15 +28,15 @@
 
 ---
 
-## 📊 Github Statistic
+### 📊 Github Stats  
 <div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=MochammadIrsyadKurniawan&show_icons=true&theme=radical&hide=issues&count_private=true" alt="GitHub Stats" />
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mochammadirsyadkurniawan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MochammadIrsyadKurniawan&layout=compact&theme=radical" alt="Top Languages" />
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mochammadirsyadkurniawan&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -56,33 +56,9 @@
 
 ---
 
-### 📊 Github Stats  
-<p align="left">
-  <a href="https://github.com/mochammadirsyadkurniawan">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mochammadirsyadkurniawan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mochammadirsyadkurniawan&layout=compact&langs_count=8&theme=radical" />
-  </a>
-</p>
-
----
 
 
-### 📊 Github Stats  
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mochammadirsyadkurniawan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mochammadirsyadkurniawan&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
 
-
----
 
 <!---
 mochammadirsyadkurniawan/mochammadirsyadkurniawan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
