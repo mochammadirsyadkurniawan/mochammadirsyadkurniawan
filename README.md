@@ -44,6 +44,19 @@
 
 ---
 
+
+### 📊 Github Stats  
+<p align="left">
+  <a href="https://github.com/mochammadirsyadkurniawan">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mochammadirsyadkurniawan&show_icons=true&theme=radical&hide=issues&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mochammadirsyadkurniawan&layout=compact&langs_count=8&theme=radical" alt="Top Languages />
+  </a>
+</p>
+
+
+---
+
+
 ## 🤝 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mochammadirsyadkurniawan/" target="_blank">
