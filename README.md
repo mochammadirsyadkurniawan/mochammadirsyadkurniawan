@@ -1,6 +1,6 @@
 <h1>helloo there! 👋</h1>
 <p>
-  I'm <strong>Mochammad Irsyad Kurniawan</strong>, you can call me icad, I am highly motivated to learn and grow, particularly in the field of technology and services.
+  I'm <strong>Mochammad Irsyad Kurniawan</strong>, you can call me icad, I am highly motivated to learn and grow, particularly in the field of technology and services..
 </p>
 
 ---
