@@ -7,7 +7,7 @@
 
 ## Profile Visitor Count
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iicaadsyd&label=Profile%20Visitor%20Count&color=0e75b6&style=flat-square" alt="profile-visitor-count" />
+  <img src="https://komarev.com/ghpvc/?username=mochammadirsyadkurniawan&label=Profile%20Visitor%20Count&color=0e75b6&style=flat-square" alt="profile-visitor-count" />
 </p>
 
 ---
@@ -33,7 +33,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=iicadsyd&show_icons=true&theme=radical&hide=issues&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=mochammadirsyadkurniawan&show_icons=true&theme=radical&hide=issues&count_private=true" alt="GitHub Stats" />
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mochammadirsyadkurniawan&layout=compact&theme=radical" alt="Top Languages" />
