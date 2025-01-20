@@ -33,7 +33,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=MochammadIrsyadKurniawan&show_icons=true&theme=radical&hide=issues&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=mochammadirsyadkurniawan&show_icons=true&theme=radical&hide=issues&count_private=true" alt="GitHub Stats" />
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mochammadirsyadkurniawan&layout=compact&theme=radical" alt="Top Languages" />
