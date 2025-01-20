@@ -44,19 +44,6 @@
 
 ---
 
-
-### 📊 Github Stats  
-<p align="left">
-  <a href="https://github.com/mochammadirsyadkurniawan">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mochammadirsyadkurniawan&show_icons=true&theme=radical&hide=issues&count_private=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mochammadirsyadkurniawan&layout=compact&langs_count=8&theme=radical" alt="Top Languages />
-  </a>
-</p>
-
-
----
-
-
 ## 🤝 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mochammadirsyadkurniawan/" target="_blank">
@@ -67,7 +54,19 @@
   </a>
 </p>
 
+---
+
+<p align="left">
+  <a href="https://github.com/mochammadirsyadkurniawan">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mochammadirsyadkurniawan&show_icons=true&theme=radical&hide=issues&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mochammadirsyadkurniawan&layout=compact&langs_count=8&theme=radical" alt="Top Languages />
+  </a>
+</p>
+
+
 <!---
 mochammadirsyadkurniawan/mochammadirsyadkurniawan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
